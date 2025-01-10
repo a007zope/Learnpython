@@ -34,3 +34,7 @@ print("###################################################")
 #skipping first index will give us output as 0123456789
 for m in range(10):
      print(m)
+
+     '''
+     Continuation of while loop
+     '''
